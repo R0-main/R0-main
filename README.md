@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engeneer (backend oriented)
 ------------------------------------
 
-I'm 18yo, and I'm passionate about programming and entrepreneurship. So far, I've worked on very basic projects to improve my coding knowledge and my understanding of algorithms. I hope to be selected by the 42 school to realy start my software engineer journey and career.
+I'm 18yo, and I'm passionate about programming and entrepreneurship. So far, I've worked on very basic projects to improve my coding knowledge and my understanding of algorithms.
 
 * 🌍  I'm based in France 🇫🇷
 * 🧠  I'm learning C, C++ (for 42 school)
