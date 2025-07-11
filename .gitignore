@@ -1,0 +1,17 @@
+# Test files
+test_*.py
+test_*.lua
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

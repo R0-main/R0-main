@@ -31,13 +31,23 @@ function BoosterUI.toggleBoosterUI(isVisible)
     if isVisible then
         print("Showing booster UI")
         -- UI display logic here
+        
+        -- Add TextEffect to display money earned by the booster pack
+        local price = boosterData.price
+        local size = math.max(24, math.min(48, price * 4)) -- Dynamic size calculation similar to onCardClicked
+        
+        TextEffect.createTextEffect("+ $" .. string.format("%.2f", price), {
+            size = size,
+            font = Enum.Font.Arcade, 
+            color = Color3.new(0, 1, 0),
+            strokeColor = Color3.new(0, 0.345098, 0),
+        })
     else
         print("Hiding booster UI")
         -- UI hide logic here
     end
     
     -- Additional booster-related functionality
-    -- This is where we need to add the TextEffect
 end
 
 return BoosterUI
