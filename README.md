@@ -12,13 +12,11 @@ I’m Romain — developer in Paris (42 Paris). I discovered programming at 13 t
 
 #
 
-<div style="display: flex; justify-content: center;">
-  <ul style="list-style-position: outside; text-align: left;">
-    <li>🌍 Paris, France · 🎓 42 Paris · 🧑‍🎓 19 y/o</li>
-    <li>🎮 Building: Minecraft mods & Roblox experiences</li>
-    <li>🧪 Exploring: AI · Cloud · Game Dev</li>
-    <li>🤝 Open to collaborating on interesting projects</li>
-  </ul>
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+  <div>🌍 Paris, France · 🎓 @42Paris · 🧑‍🎓 19 y/o</div>
+  <div>🎮 Building: Minecraft mods & Roblox experiences</div>
+  <div>🧪 Exploring: AI · Cloud · Game Dev</div>
+  <div>🤝 Open to collaborating on interesting projects</div>
 </div>
 
 #
