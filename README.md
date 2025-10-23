@@ -22,9 +22,18 @@ I'm 19yo, and I'm passionate about programming and entrepreneurship. So far, I'v
 
 <p align="left"> <a href="https://discord.com/users/justromain" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/R0-main" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+#
 
-<b>My GitHub Stats</b>
+### Stats
 
-<a href="http://www.github.com/R0-main"><img src="https://github-readme-streak-stats.herokuapp.com/?user=R0-main&stroke=3382ed&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
+<p align="center">
+  <a href="https://github.com/R0-main">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0-main&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/R0-main">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=R0-main&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/R0-main">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=R0-main&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
