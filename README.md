@@ -6,8 +6,6 @@
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 
-#
-
 I’m Romain — developer in Paris (42 Paris). I discovered programming at 13 through Minecraft command blocks, running small servers with friends and “scripting” contraptions. Since 2021 I’ve been coding in earnest: building small projects, deepening my algorithmic thinking, and growing an entrepreneurial mindset. I’m currently building games (Minecraft mods, Roblox) and exploring AI and Cloud.
 
 #
