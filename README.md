@@ -76,7 +76,7 @@ I’m Romain — developer in Paris (42 Paris). I discovered programming at 13 t
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=R0-main&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   </a>
    <a href="https://github.com/R0-main">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=R0-main&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed" alt="GitHub Streak" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=R0-main&hide_border=true&theme=transparent&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed" alt="GitHub Streak" />
   </a>
 </p>
 
